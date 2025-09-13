@@ -1,0 +1,22 @@
+# 가상환경
+venv/
+.env
+.env.*
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 에디터/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 데이터/출력
+*.csv
+*.log
+*.sqlite
+
